@@ -1,0 +1,25 @@
+.container-photo{
+  
+}
+
+.contact-photo{
+    border-radius: 50px;
+    border: 1px solid black;
+    padding: 10px;
+    margin:10px
+}
+.left{
+    text-align: left;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+.right{
+    text-align: right;
+    padding: 5px;
+    margin: 5px;
+}
+.texto-centrado-verticalmente{
+    display: flex;
+    align-items: center;
+}
